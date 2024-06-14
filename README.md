@@ -40,7 +40,7 @@ Set the path to your video file stored in Google Drive:
 video_path = "/content/drive/MyDrive/VID-20230914-WA0005.mp4"
 ```
 ## Run the Script
-The script reads the video file, detects faces in each frame, analyzes the emotions on those faces, and annotates the frames with the dominant emotion.
+The human-emotion.py script reads the video file, detects faces in each frame, analyzes the emotions on those faces, and annotates the frames with the dominant emotion.
 
 ## Output
 The script will generate a video file named Emotions.avi with the annotated emotions for each detected face.
